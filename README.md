@@ -1,5 +1,7 @@
-# SpidersBegone
-A mod for Lethal Company which removes all spiders from the game.
+# GirlBegone
+A mod for Lethal Company which removes the Girl from the game.
+
+This is a fork of SpidersBegone by Tinyhoot. Credit for original logic goes to them.
 
 The mod *must* be installed by the host, but unmodded clients can join and enjoy the lack of spiders.
 This also means that this mod will not work for you if you join the game of someone who does not have
@@ -13,4 +15,4 @@ this mod installed.
 ## Using this mod
 This mod only works if you are the host and does nothing otherwise. 
 This is because it is the *server* that chooses which enemies will spawn. Anyone joining your games does not need 
-to have this mod installed. They can enjoy the spiderless experience just like that.
+to have this mod installed. They can enjoy the girl-less experience just like that.

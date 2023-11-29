@@ -14,9 +14,9 @@ namespace SpidersBegone.Patches
         private static void PreventSpiderSpawns(RoundManager __instance, ref bool __result, int enemyIndex)
         {
             var enemy = __instance.currentLevel.Enemies[enemyIndex];
-            if (enemy.enemyType.enemyName.ToLower().Contains("spider"))
+            if (enemy.enemyType.enemyName.ToLower().Contains("girl"))
             {
-                SpidersBegone.Log.LogDebug("Prevented spider spawn.");
+                SpidersBegone.Log.LogDebug("Prevented girl spawn.");
                 __result = true;
             }
         }

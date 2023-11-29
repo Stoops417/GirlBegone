@@ -8,8 +8,8 @@ namespace SpidersBegone
     [BepInPlugin(GUID, NAME, VERSION)]
     internal class SpidersBegone : BaseUnityPlugin
     {
-        public const string GUID = "com.github.tinyhoot.SpidersBegone";
-        public const string NAME = "SpidersBegone";
+        public const string GUID = "com.github.stoops417.GirlBegone";
+        public const string NAME = "GirlBegone";
         public const string VERSION = "1.0";
 
         internal static ManualLogSource Log;

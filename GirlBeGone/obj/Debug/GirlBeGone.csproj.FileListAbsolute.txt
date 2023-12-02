@@ -114,7 +114,6 @@ C:\Users\kstoo\source\repos\GirlBeGone\GirlBeGone\obj\Debug\GirlBeGone.csproj.Co
 C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\bin\Debug\GirlBeGone.dll
 C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\bin\Debug\GirlBeGone.pdb
 C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\bin\Debug\0Harmony.dll
-C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\bin\Debug\Assembly-CSharp.dll
 C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\bin\Debug\BepInEx.dll
 C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\bin\Debug\Unity.Netcode.Runtime.dll
 C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\bin\Debug\UnityEngine.CoreModule.dll
@@ -146,8 +145,6 @@ C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\bin\Debug\UnityEngin
 C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\bin\Debug\UnityEngine.TilemapModule.dll
 C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\bin\Debug\Unity.AI.Navigation.dll
 C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\bin\Debug\Unity.Collections.dll
-C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\bin\Debug\Assembly-CSharp-firstpass.dll
-C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\bin\Debug\ClientNetworkTransform.dll
 C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\bin\Debug\UnityEngine.InputLegacyModule.dll
 C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\bin\Debug\UnityEngine.IMGUIModule.dll
 C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\bin\Debug\UnityEngine.GridModule.dll
@@ -224,3 +221,4 @@ C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\obj\Debug\GirlBeGone
 C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\obj\Debug\GirlBeGone.csproj.CopyComplete
 C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\obj\Debug\GirlBeGone.dll
 C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\obj\Debug\GirlBeGone.pdb
+C:\Users\kstoo\source\repos\Stoops417\GirlBegone\GirlBeGone\bin\Debug\Assembly-CSharp_publicized.dll

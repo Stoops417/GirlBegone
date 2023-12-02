@@ -15,7 +15,7 @@ namespace GirlBeGone.Patches
         /// This happens during a server-only planning stage so this works even if clients do not have the mod.
         /// </summary>
         [HarmonyPostfix]
-        [HarmonyPatch(typeof(RoundManager), "RoundManager.EnemyCannotBeSpawned")]
+        [HarmonyPatch(typeof(RoundManager), nameof(RoundManager.EnemyCannotBeSpawned))]
         private static void PreventGirlSpawns(RoundManager __instance, ref bool __result, int enemyIndex)
         {
             var enemy = __instance.currentLevel.Enemies[enemyIndex];

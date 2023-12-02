@@ -3,7 +3,7 @@ A mod for Lethal Company which removes the Girl from the game.
 
 This is a fork of SpidersBegone by Tinyhoot. (https://github.com/tinyhoot/SpidersBegone) Credit for original logic goes to them.
 
-The mod *must* be installed by the host, but unmodded clients can join and enjoy the lack of spiders.
+The mod *must* be installed by the host, but unmodded clients can join and enjoy the lack of Dress Girls.
 This also means that this mod will not work for you if you join the game of someone who does not have
 this mod installed.
 
